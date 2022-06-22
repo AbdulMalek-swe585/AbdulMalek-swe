@@ -7,5 +7,5 @@
 - 💬 Ask me about web development
 - 📫 How to reach me: facebook
 - 😄 Pronouns: his/him
-- ⚡ Fun fact: i spend almost 12 hour listening song
+- ⚡ Fun fact: i spend almost 2 hour listening song
 
