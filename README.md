@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12abdulmalek)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=12abdulmalek)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=12abdulmalek)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=12abdulmalek)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=12abdulmalek)  
 
